@@ -2,7 +2,8 @@ langchain
 langchain-groq
 langchain-community
 langchain-core
-streamlit
+streamlit>=1.35.0
+starlette>=0.37.2
 python-dotenv
 pydantic
 requests
