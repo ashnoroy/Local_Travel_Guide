@@ -1,9 +1,0 @@
-langchain==0.2.16
-langchain-core==0.2.39
-langchain-community==0.2.16
-langchain-groq==0.1.10
-streamlit
-python-dotenv
-pydantic
-requests
-tenacity
